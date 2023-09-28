@@ -3,7 +3,7 @@ body{
 }
 /*css do cabeçalho */
 header{
-	background: url("bg.1.jpg");
+	background: url("bg12.jpg");
 	padding: 20px 0;
 }
 .logo{
@@ -100,7 +100,7 @@ font-weight: bold;
 
 footer{
 	text-align: center;
-	background: url("bg.1.jpg");
+	background: url("bg12.jpg");
 	padding: 40px 0;.
 }
 
