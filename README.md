@@ -1,6 +1,6 @@
 ### Murilo Moraes De Assis
 
-- 📚 estudando front-end 
+- 📚 Fullstack 
 - 🕥 Hoje em dia, não trabalho na área, mas alimento esse sonho todos os dias.
 - 📷 instagram: @murilotw1
 
