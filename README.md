@@ -1,6 +1,6 @@
 ### Murilo Moraes De Assis
 
-- 📚 CC0-4 semestre
+- 📚 CCO-4 semestre
 - 🕥 Hoje em dia, não trabalho na área, mas alimento esse sonho todos os dias.
 - 📷 instagram: @murilotw1
 
