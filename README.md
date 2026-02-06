@@ -1,11 +1,14 @@
 # 👋 Hello! / Olá! Eu sou o Murilo
 
-🎓 I'm a Computer Science student (5th semester) and a Data & BI intern at **ORANGEFOX TI**.
+🎓 I'm a Computer Science student (6th semester) and a Data & BI analist at **ORANGEFOX TI**.
 
-💼 Atuo como estagiário de Dados & BI, desenvolvendo dashboards e modelos de dados com:
+💼 Atuo como analista de Dados & BI, desenvolvendo dashboards e modelos de dados com:
 - Qlik Sense / Qlik Script
 - SQL & Excel
-- Python 
+- Python
+- power bi
+- mashups
+  
 
 ---
 
