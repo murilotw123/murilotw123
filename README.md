@@ -26,8 +26,3 @@
 🔗 https://www.linkedin.com/in/murilo-moraes-de-assis-431835264/
 
 
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilotw123&hide_progress=true)
-
-
